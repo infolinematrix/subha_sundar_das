@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   81.51 %
-TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Groovy       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Dart       hrs 7 mins     ████████████████████▒░░░░   81.51 %
+Flutter   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+PHP       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+MySQL     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=infolinematrix&show_icons=true&theme=gotham" alt="infolinematrix" />
 
 
 
